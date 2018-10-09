@@ -3,6 +3,9 @@
 ## 具体的なアイディア
 Taimeeのような時間を設定するUI
 
+![img_1bb5b6f06d3a-1](https://user-images.githubusercontent.com/40314657/46679793-aab8eb00-cc22-11e8-8bcb-5f8d4b43c8db.jpeg)
+
+
 ## そのライブラリはどのような問題を解決しようとしているか
 視覚的に時間を選ぶことができる。
 
